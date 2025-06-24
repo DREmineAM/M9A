@@ -11,7 +11,7 @@
     ],
     "resource": [
         {
-            "name": "官服",
+            "name": "QQ服",
             "path": [
                 "{PROJECT_DIR}/resource/base"
             ]
