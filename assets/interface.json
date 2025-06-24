@@ -11,7 +11,7 @@
     ],
     "resource": [
         {
-            "name": "官服/QQ服",
+            "name": "官服",
             "path": [
                 "{PROJECT_DIR}/resource/base"
             ]
@@ -21,6 +21,12 @@
             "path": [
                 "{PROJECT_DIR}/resource/base",
                 "{PROJECT_DIR}/resource/bilibili"
+            ]
+        },
+        {
+            "name": "官服",
+            "path": [
+                "{PROJECT_DIR}/resource/base"
             ]
         },
         {
